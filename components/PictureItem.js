@@ -44,6 +44,7 @@ function PictureItem(props) {
 const styles = StyleSheet.create({
     container: {
         marginBottom: 20,
+        paddingHorizontal: 8
     },
     image: {
         width: "100%",

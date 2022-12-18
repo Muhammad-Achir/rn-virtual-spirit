@@ -4,4 +4,4 @@ clone
 
 npm install
 
-npm start
+npx expo start

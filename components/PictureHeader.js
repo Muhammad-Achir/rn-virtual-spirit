@@ -38,7 +38,8 @@ const styles = StyleSheet.create({
     header: {
         justifyContent: "space-between",
         flexDirection: "row",
-        marginVertical: 20
+        marginVertical: 20,
+        paddingHorizontal: 8
     },
     buttonLike: {
         alignItems: "center",
